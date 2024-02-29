@@ -1,0 +1,2 @@
+# releases
+POS application releases
